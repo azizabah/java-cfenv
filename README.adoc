@@ -206,7 +206,7 @@ Just add a dependency on `java-cfenv-boot`.
 
 The list of supported services are:
 
-* Databases - DB2, MySQL, Oracle, Postgresl, SqlServer
+* Databases - DB2, MySQL, Oracle, PostgreSQL, SqlServer
 * RabbitMQ
 * Cassandara
 * MongoDB
